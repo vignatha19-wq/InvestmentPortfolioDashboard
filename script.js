@@ -1,1 +1,0 @@
-console.log("Investment Portfolio Dashboard loaded successfully!");
